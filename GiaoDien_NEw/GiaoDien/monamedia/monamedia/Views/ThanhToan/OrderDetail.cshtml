@@ -1,0 +1,29 @@
+﻿@model IEnumerable<monamedia.Models.orderDetail>
+
+@{
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<div class="order-details-container">
+    <h2>Chi Tiết Đơn Hàng</h2>
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>Mã Sản Phẩm</th>
+                <th>Số Lượng</th>
+                <th>Giá</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.productID</td>
+                    <td>@item.quantity</td>
+                    <td>@item.price</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a href="@Url.Action("Index", "Order")" class="btn btn-secondary">Quay Lại</a>
+</div>

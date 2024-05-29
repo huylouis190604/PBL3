@@ -1,0 +1,85 @@
+﻿
+@{
+    ViewBag.Title = "DonHang";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+@{
+    var customerInfo = (monamedia.API.CustomerInfo)Session["CustomerInfo"];
+    var productlist = (List<monamedia.API.CartItem>)Session["giohang"];
+    var order = new monamedia.API.OrderModel();
+    int tong = 0;
+    foreach (var item in productlist)
+    {
+        order = new monamedia.API.OrderModel
+        {
+            CustomerID = customerInfo.customerID,
+            ProductID = item.SanPhamID,
+            Total = item.SoLuong * int.Parse(item.DonGia),
+            Fee = 0,
+            Quantity = item.SoLuong,
+            Price = int.Parse(item.DonGia)
+
+        };
+        tong += int.Parse(item.DonGia) * item.SoLuong;
+    }
+
+
+    <!-- Checkout Form -->
+    <div class="container mt-5">
+        <h2 class="text-center mb-4">Đơn hàng</h2>
+        <form>
+            <!-- Customer Information -->
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label for="firstName">Họ tên</label>
+                    <input type="text" class="form-control" id="firstName" placeholder="First Name" required value="@customerInfo.FullName">
+                </div>
+            </div>
+            <div class="mb-3">
+                <label for="email">Số điện thoại</label>
+                <input type="text" class="form-control" id="email" placeholder="" value="@customerInfo.PhoneNumber">
+            </div>
+            <div class="mb-3">
+                <label for="email">Email</label>
+                <input type="email" class="form-control" id="email" placeholder="you@example.com">
+            </div>
+            <div class="mb-3">
+                <label for="address">Địa chỉ</label>
+                <input type="text" class="form-control" id="address" placeholder="1234 Main St" required value="@customerInfo.Address">
+            </div>
+
+
+            <!-- Payment Information -->
+            <!-- Order Summary -->
+            <h4 class="mb-3">Danh sách sản phẩm</h4>
+
+            <ul class="list-group mb-3">
+                <li class="row">
+                    <h6 class="col-md-5">Tên sản phẩm</h6>
+                    <span class="col-md-3">Số Lượng</span>
+                    <span class="col-md-3">Đơn giá</span>
+                </li>
+
+                <li class="row">
+                    @foreach (var product in (List<monamedia.API.CartItem>)Session["giohang"])
+                    {
+                        <h6 class="col-md-5">@product.TenSanPham</h6>
+                        <span class="col-md-3">@product.SoLuong</span>
+                        <span class="col-md-3">@String.Format(new System.Globalization.CultureInfo("vi-VN"), "{0:C}", int.Parse(@product.DonGia))</span>
+                    }
+
+                </li>
+
+            </ul>
+            <div class="row">
+                <span class="col-md-3">Tổng đơn hàng : </span>
+
+                <span class="col-md-5">@String.Format(new System.Globalization.CultureInfo("vi-VN"), "{0:C}", tong)</span>
+            </div>
+
+            <a href="@Url.Action("ShopingCart","Thanhtoan", new { OrderModel = order })" class="btn btn-primary btn-lg btn-block" type="submit">Đặt hàng</a>
+        </form>
+    </div>
+    
+}

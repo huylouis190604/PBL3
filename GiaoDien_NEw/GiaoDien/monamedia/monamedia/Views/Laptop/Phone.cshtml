@@ -1,0 +1,133 @@
+﻿
+@{
+    ViewBag.Title = "Phone";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+<main id="main" class="site-main" role="main">
+
+    <section class="w-100">
+        <!--breadcrumb section start-->
+        <div class="breadcrumb-section pt-40 pb-40" data-background="assets/images/shapes/breadcrumb-bg.html" style="background-image: url(&quot;assets/images/shapes/breadcrumb-bg.html&quot;);">
+            <div class="container">
+                <p class="breadcrumb-text fw-light mb-0"></p><nav class="woocommerce-breadcrumb" aria-label="Breadcrumb"><a href="../../../index.html">Trang chủ</a> / <a href="../index.html">Máy tính</a> / Hardware</nav><p></p>
+            </div>
+        </div>
+        <!--breadcrumb section end-->
+    </section>
+
+    <section class="electio-woo-archive-main">
+        <div class="container">
+
+
+            <div class="without-sidebar">
+
+                <div class="w-100">
+
+
+                    <div class="row align-items-center">
+
+
+                        <div class="col-4 col-md-2 electio-product-filter-b">
+                        </div>
+                        <div class="col-8 col-md-5 pivoo-product-filter text-md-end">
+
+                        </div>
+
+
+                        <div class="electio__product-view-style-tab-content tab-content" id="myTabContent">
+                            <div class="tab-pane fade show active" id="post-grid" role="tabpanel" aria-labelledby="post-grid-tab">
+                                <div class="electio-shop-product-grid row  row-cols-1 row-cols-md-3">
+                                    @{
+                                        var laptops = ViewBag.Phone as List<monamedia.API.LaptopViewModel>;
+                                    }
+
+                                    @if (laptops != null && laptops.Any())
+                                    {
+                                        foreach (var laptop in laptops)
+                                        {
+                                            <div class="col mb-4">
+                                                <div class="el-single-product">
+                                                    <div class="action-btns-wrapper">
+                                                        <!-- Quick View button -->
+                                                        <a href="#" class="xpc-quick-view action-btn" data-product_id="">
+                                                            <span class="xpc-quick-view-text product__quick_view_text">Quick View</span>
+                                                            <i class="ele-icon electio-search product__quick_view_icon"></i>
+
+                                                            <!-- Loader image -->
+                                                            <div class="wc-loading-button-open">
+                                                                <div class="xpc-loading-circle">
+                                                                    <svg class="xpc-spinner" viewBox="0 0 50 50">
+                                                                        <circle class="path" cx="25" cy="25" r="20" fill="none" stroke-width="5"></circle>
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                        <!-- Compare button -->
+                                                        <button class="action-btn">
+                                                            <div class="woocommerce product compare-button woosc-compare-button">
+                                                                <a href="@Url.Action("ChiTiet", "Thanhtoan", new { masp = laptop.ProductId })" class="compare button woosc-btn woosc-btn-@laptop.ProductId" data-id="@laptop.ProductId" rel="nofollow"></a>
+                                                            </div>
+                                                        </button>
+                                                        <!-- Wishlist button -->
+                                                        <a href="@Url.Action("ThemYeuthich", "Thanhtoan", new { SanPhamID = laptop.ProductId })" data-wishlist-link="" data-id="@laptop.ProductId" class="  action-btn">
+                                                            <i class="btn-icon text-body-default ele-icon electio-heart-2"></i>
+                                                        </a>
+                                                    </div>
+                                                    <!-- Product image -->
+                                                    <div class="product-img-wrapper">
+                                                        <div class="img-box">
+                                                            <img src="~/img/@laptop.Img" alt="" class="main-img">
+                                                            <img src="~/img/@laptop.Img" alt="product img" class="hover-img">
+                                                        </div>
+                                                    </div>
+                                                    <!-- Product content -->
+                                                    <div class="content-wrapper">
+                                                        <a href="@Url.Action("ChiTiet", "Thanhtoan", new { masp = laptop.ProductId })" class="title">@laptop.Name</a>
+                                                        <div class="btm-content-wrapper">
+                                                            <div class="pricing-wrapper">
+                                                                @if (laptop.Price != laptop.discountedPrice)
+                                                                {
+                                                                    <del style="font-size:20px" aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>@String.Format(new System.Globalization.CultureInfo("vi-VN"), "{0:C}", laptop.Price)&nbsp;<span class="woocommerce-Price-currencySymbol"></span></bdi></span></del>
+                                                                    <ins style="font-size:20px"><span class="woocommerce-Price-amount amount"><bdi>@String.Format(new System.Globalization.CultureInfo("vi-VN"), "{0:C}", laptop.discountedPrice)&nbsp;<span class="woocommerce-Price-currencySymbol"></span></bdi></span></ins>
+                                                                }
+                                                                else
+                                                                {
+                                                                    <ins style="font-size:20px"><span class="woocommerce-Price-amount amount"><bdi>@String.Format(new System.Globalization.CultureInfo("vi-VN"), "{0:C}", laptop.discountedPrice)&nbsp;<span class="woocommerce-Price-currencySymbol"></span></bdi></span></ins>
+                                                                }
+
+                                                            </div>
+                                                            <div class="star-rating">
+                                                                <span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- Add to cart button -->
+                                                    <div class="electio_product_style">
+                                                        <a href="@Url.Action("ThemVaoGio1", "ThanhToan", new { SanPhamID = laptop.ProductId })">
+                                                            Thêm vào giỏ hàng
+                                                            <i class="ele-icon electio-arrow-right"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        }
+                                    }
+
+
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div><!---Tab End -->
+
+                </div>
+
+
+            </div>
+
+        </div>
+    </section>
+
+</main>
+

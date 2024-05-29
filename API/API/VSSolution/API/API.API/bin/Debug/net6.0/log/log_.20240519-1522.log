@@ -1,0 +1,8 @@
+2024-05-19 15:22:08,508 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 POST https://localhost:5001/v1/api/Token application/json-patch+json 51
+2024-05-19 15:22:08,544 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2024-05-19 15:22:09,325 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'API.API.Controllers.TokenController.Post (API.API)'
+2024-05-19 15:22:09,386 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Route matched with {action = "Post", controller = "Token"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Post(API.Utility.AuthenticateModel) on controller API.API.Controllers.TokenController (API.API).
+2024-05-19 15:22:10,240 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing OkObjectResult, writing value of type 'API.Utility.APIResponse'.
+2024-05-19 15:22:10,310 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed action API.API.Controllers.TokenController.Post (API.API) in 913.0904ms
+2024-05-19 15:22:10,313 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'API.API.Controllers.TokenController.Post (API.API)'
+2024-05-19 15:22:10,322 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 POST https://localhost:5001/v1/api/Token application/json-patch+json 51 - 200 380 application/json;+charset=utf-8 1821.7188ms

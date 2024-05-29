@@ -1,0 +1,2 @@
+2024-05-11 00:24:09,644 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:5001/service-worker.js - -
+2024-05-11 00:24:09,683 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:5001/service-worker.js - - - 404 0 - 37.4607ms

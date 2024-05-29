@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JvU2m9kt0QdIc+A8x/4qIf3lHAYTslZ/x7KoGKUHljK0E9CYGo+eZL+f1+Tp2XzRl/w9nIkcadaiUqpQdn0v2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.Model\\API.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

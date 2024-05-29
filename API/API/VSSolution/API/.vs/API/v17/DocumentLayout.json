@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA46F31D-4900-4D88-94E1-479F4BA2E61D}|API.API\\API.API.csproj|c:\\users\\dell\\desktop\\new folder\\api\\api\\vssolution\\api\\api.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA46F31D-4900-4D88-94E1-479F4BA2E61D}|API.API\\API.API.csproj|solutionrelative:api.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA46F31D-4900-4D88-94E1-479F4BA2E61D}|API.API\\API.API.csproj|C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\api.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA46F31D-4900-4D88-94E1-479F4BA2E61D}|API.API\\API.API.csproj|solutionrelative:api.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA46F31D-4900-4D88-94E1-479F4BA2E61D}|API.API\\API.API.csproj|C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\api.api\\api.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA46F31D-4900-4D88-94E1-479F4BA2E61D}|API.API\\API.API.csproj|solutionrelative:api.api\\api.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37175CE-4166-49C5-8FD5-18908974877C}|API.DataAccess\\API.DataAccess.csproj|C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\api.dataaccess\\api.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A37175CE-4166-49C5-8FD5-18908974877C}|API.DataAccess\\API.DataAccess.csproj|solutionrelative:api.dataaccess\\api.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F96FF8-ED0B-4146-BC89-C91B6FE07734}|API.Manager\\API.Manager.csproj|C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\api.manager\\impl\\spmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F96FF8-ED0B-4146-BC89-C91B6FE07734}|API.Manager\\API.Manager.csproj|solutionrelative:api.manager\\impl\\spmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37175CE-4166-49C5-8FD5-18908974877C}|API.DataAccess\\API.DataAccess.csproj|C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\api.dataaccess\\impl\\storedproceduredataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37175CE-4166-49C5-8FD5-18908974877C}|API.DataAccess\\API.DataAccess.csproj|solutionrelative:api.dataaccess\\impl\\storedproceduredataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854356DE-7C24-42DF-A51B-5CDDF50F686A}|API.Model\\API.Model.csproj|C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\api.model\\sp_loginoutputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854356DE-7C24-42DF-A51B-5CDDF50F686A}|API.Model\\API.Model.csproj|solutionrelative:api.model\\sp_loginoutputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "API.API",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.API\\API.API.csproj",
+              "RelativeDocumentMoniker": "API.API\\API.API.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.API\\API.API.csproj",
+              "RelativeToolTip": "API.API\\API.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-28T16:05:07.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.API\\appsettings.json",
+              "RelativeDocumentMoniker": "API.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.API\\appsettings.json",
+              "RelativeToolTip": "API.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T14:38:21.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.API\\Startup.cs",
+              "RelativeDocumentMoniker": "API.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.API\\Startup.cs",
+              "RelativeToolTip": "API.API\\Startup.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:38:17.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "API.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.DataAccess\\API.DataAccess.csproj",
+              "RelativeDocumentMoniker": "API.DataAccess\\API.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.DataAccess\\API.DataAccess.csproj",
+              "RelativeToolTip": "API.DataAccess\\API.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T14:47:08.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoredProcedureDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.DataAccess\\Impl\\StoredProcedureDataAccess.cs",
+              "RelativeDocumentMoniker": "API.DataAccess\\Impl\\StoredProcedureDataAccess.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.DataAccess\\Impl\\StoredProcedureDataAccess.cs",
+              "RelativeToolTip": "API.DataAccess\\Impl\\StoredProcedureDataAccess.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwDAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:43:19.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SPManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.Manager\\Impl\\SPManager.cs",
+              "RelativeDocumentMoniker": "API.Manager\\Impl\\SPManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.Manager\\Impl\\SPManager.cs",
+              "RelativeToolTip": "API.Manager\\Impl\\SPManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:42:57.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sp_LoginOutputModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.Model\\Sp_LoginOutputModel.cs",
+              "RelativeDocumentMoniker": "API.Model\\Sp_LoginOutputModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.Model\\Sp_LoginOutputModel.cs",
+              "RelativeToolTip": "API.Model\\Sp_LoginOutputModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:37:06.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

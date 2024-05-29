@@ -1,0 +1,85 @@
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.deps.json
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.dll
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.pdb
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\bin\Debug\net6.0\API.Model.dll
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\bin\Debug\net6.0\API.Utility.dll
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\bin\Debug\net6.0\API.Model.pdb
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\bin\Debug\net6.0\API.Utility.pdb
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.csproj.AssemblyReference.cache
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.AssemblyInfoInputs.cache
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.AssemblyInfo.cs
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.csproj.CoreCompileInputs.cache
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.csproj.CopyComplete
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.dll
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\obj\Debug\net6.0\refint\API.DataAccess.dll
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.pdb
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.DataAccess\obj\Debug\net6.0\ref\API.DataAccess.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.deps.json
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.pdb
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Model.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Utility.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Model.pdb
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Utility.pdb
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.csproj.AssemblyReference.cache
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.AssemblyInfoInputs.cache
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.AssemblyInfo.cs
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.csproj.CoreCompileInputs.cache
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.Data.C40B4DDF.Up2Date
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\refint\API.DataAccess.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.pdb
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\ref\API.DataAccess.dll
+D:\PL3\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.deps.json
+D:\PL3\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.dll
+D:\PL3\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.pdb
+D:\PL3\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Model.dll
+D:\PL3\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Utility.dll
+D:\PL3\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Model.pdb
+D:\PL3\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Utility.pdb
+D:\PL3\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.csproj.AssemblyReference.cache
+D:\PL3\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PL3\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.AssemblyInfoInputs.cache
+D:\PL3\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.AssemblyInfo.cs
+D:\PL3\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.csproj.CoreCompileInputs.cache
+D:\PL3\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.Data.C40B4DDF.Up2Date
+D:\PL3\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.dll
+D:\PL3\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\refint\API.DataAccess.dll
+D:\PL3\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.pdb
+D:\PL3\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\ref\API.DataAccess.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.deps.json
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.pdb
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Model.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Utility.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Model.pdb
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Utility.pdb
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\refint\API.DataAccess.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.pdb
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\ref\API.DataAccess.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.deps.json
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.DataAccess.pdb
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Model.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Utility.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Model.pdb
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\bin\Debug\net6.0\API.Utility.pdb
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.AssemblyInfo.cs
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.Data.C40B4DDF.Up2Date
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\refint\API.DataAccess.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\API.DataAccess.pdb
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.DataAccess\obj\Debug\net6.0\ref\API.DataAccess.dll

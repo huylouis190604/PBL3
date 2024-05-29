@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "9gfhcTGnZJMM3EjMR7riNYWXW2eV9772Wxi7t+2atWE=",
+  "Source": "API.API",
+  "BasePath": "_content/API.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API.API\\wwwroot",
+      "Source": "API.API",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\New folder\\API\\API\\VSSolution\\API\\API.API\\wwwroot\\",
+      "BasePath": "_content/API.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

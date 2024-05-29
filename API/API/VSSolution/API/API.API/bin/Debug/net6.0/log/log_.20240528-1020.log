@@ -1,0 +1,54 @@
+2024-05-28 10:20:03,483 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST https://localhost:5001/v1/api/SP/Proc_Sanpham application/json;+charset=utf-8 17
+2024-05-28 10:20:03,486 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '5/26/2024 8:22:09 AM', Current time: '5/28/2024 3:20:03 AM'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-05-28 10:20:03,487 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '5/26/2024 8:22:09 AM', Current time: '5/28/2024 3:20:03 AM'.
+2024-05-28 10:20:03,487 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'API.API.Controllers.SPController.Post_Proc_Sanpham (API.API)'
+2024-05-28 10:20:03,487 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Route matched with {action = "Post_Proc_Sanpham", controller = "SP"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Post_Proc_Sanpham(API.Model.Proc_SanphamInputModel) on controller API.API.Controllers.SPController (API.API).
+2024-05-28 10:20:03,496 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing OkObjectResult, writing value of type 'API.Utility.APIResponse'.
+2024-05-28 10:20:03,511 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed action API.API.Controllers.SPController.Post_Proc_Sanpham (API.API) in 23.6855ms
+2024-05-28 10:20:03,511 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'API.API.Controllers.SPController.Post_Proc_Sanpham (API.API)'
+2024-05-28 10:20:03,511 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/1.1 POST https://localhost:5001/v1/api/SP/Proc_Sanpham application/json;+charset=utf-8 17 - 200 32054 application/json;+charset=utf-8 27.5774ms
+2024-05-28 10:20:16,311 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST https://localhost:5001/v1/api/SP/Proc_DetailSP application/json;+charset=utf-8 28
+2024-05-28 10:20:16,315 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '5/26/2024 8:22:09 AM', Current time: '5/28/2024 3:20:16 AM'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-05-28 10:20:16,315 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '5/26/2024 8:22:09 AM', Current time: '5/28/2024 3:20:16 AM'.
+2024-05-28 10:20:16,315 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'API.API.Controllers.SPController.Post_Proc_SanphamCT (API.API)'
+2024-05-28 10:20:16,316 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Route matched with {action = "Post_Proc_SanphamCT", controller = "SP"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Post_Proc_SanphamCT(API.Model.Proc_SanphamCTInputModel) on controller API.API.Controllers.SPController (API.API).
+2024-05-28 10:20:16,321 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing OkObjectResult, writing value of type 'API.Utility.APIResponse'.
+2024-05-28 10:20:16,322 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed action API.API.Controllers.SPController.Post_Proc_SanphamCT (API.API) in 6.1734ms
+2024-05-28 10:20:16,322 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'API.API.Controllers.SPController.Post_Proc_SanphamCT (API.API)'
+2024-05-28 10:20:16,322 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/1.1 POST https://localhost:5001/v1/api/SP/Proc_DetailSP application/json;+charset=utf-8 28 - 200 1025 application/json;+charset=utf-8 11.1309ms
+2024-05-28 10:20:20,477 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST https://localhost:5001/v1/api/SP/Proc_DetailSP application/json;+charset=utf-8 28
+2024-05-28 10:20:20,477 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '5/26/2024 8:22:09 AM', Current time: '5/28/2024 3:20:20 AM'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-05-28 10:20:20,478 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '5/26/2024 8:22:09 AM', Current time: '5/28/2024 3:20:20 AM'.
+2024-05-28 10:20:20,478 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'API.API.Controllers.SPController.Post_Proc_SanphamCT (API.API)'
+2024-05-28 10:20:20,478 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Route matched with {action = "Post_Proc_SanphamCT", controller = "SP"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Post_Proc_SanphamCT(API.Model.Proc_SanphamCTInputModel) on controller API.API.Controllers.SPController (API.API).
+2024-05-28 10:20:20,482 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing OkObjectResult, writing value of type 'API.Utility.APIResponse'.
+2024-05-28 10:20:20,483 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed action API.API.Controllers.SPController.Post_Proc_SanphamCT (API.API) in 4.5492ms
+2024-05-28 10:20:20,483 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'API.API.Controllers.SPController.Post_Proc_SanphamCT (API.API)'
+2024-05-28 10:20:20,483 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/1.1 POST https://localhost:5001/v1/api/SP/Proc_DetailSP application/json;+charset=utf-8 28 - 200 1025 application/json;+charset=utf-8 6.3239ms

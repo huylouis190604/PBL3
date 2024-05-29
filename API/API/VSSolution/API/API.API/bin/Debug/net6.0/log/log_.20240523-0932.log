@@ -1,0 +1,13 @@
+2024-05-23 09:32:00,026 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:5001/ - -
+2024-05-23 09:32:00,056 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:5001/ - - - 404 0 - 30.1180ms
+2024-05-23 09:32:03,235 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5000/ - -
+2024-05-23 09:32:03,247 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/1.1 GET http://localhost:5000/ - - - 307 0 - 11.9445ms
+2024-05-23 09:32:03,261 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:5001/ - -
+2024-05-23 09:32:03,266 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:5001/ - - - 404 0 - 4.8069ms
+2024-05-23 09:32:12,597 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST https://localhost:5001/v1/api/SP/Sp_Login application/json;+charset=utf-8 31
+2024-05-23 09:32:12,601 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'API.API.Controllers.SPController.Post_Sp_Login (API.API)'
+2024-05-23 09:32:12,601 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Route matched with {action = "Post_Sp_Login", controller = "SP"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Post_Sp_Login(API.Model.Sp_LoginInputModel) on controller API.API.Controllers.SPController (API.API).
+2024-05-23 09:32:12,608 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'API.Utility.APIResponse'.
+2024-05-23 09:32:12,609 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed action API.API.Controllers.SPController.Post_Sp_Login (API.API) in 7.8829ms
+2024-05-23 09:32:12,610 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'API.API.Controllers.SPController.Post_Sp_Login (API.API)'
+2024-05-23 09:32:12,610 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/1.1 POST https://localhost:5001/v1/api/SP/Sp_Login application/json;+charset=utf-8 31 - 500 89 application/json;+charset=utf-8 13.0553ms

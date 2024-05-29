@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="28e6e9216d2b4cd29748eb21e59cb400" Name="Diagram1">
+        <EntityTypeShape EntityType="laptopsqlModel.C_Order" Width="1.5" PointX="3" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.Account" Width="1.5" PointX="1.5" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.Customer" Width="1.5" PointX="3.75" PointY="22.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.Discount" Width="1.5" PointX="6" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.Export" Width="1.5" PointX="8.25" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.Import" Width="1.5" PointX="3" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.Manager" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.orderDetail" Width="1.5" PointX="5.25" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.Payment" Width="1.5" PointX="5.25" PointY="25.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.Product" Width="1.5" PointX="3" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.Product_Discount" Width="1.5" PointX="8.25" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.ProductImport" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.Review" Width="1.5" PointX="5.25" PointY="16.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.Specification" Width="1.5" PointX="0.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.Staff" Width="1.5" PointX="0.75" PointY="17" IsExpanded="true" />
+        <EntityTypeShape EntityType="laptopsqlModel.Wishlist" Width="1.5" PointX="5.25" PointY="19.25" IsExpanded="true" />
+        <AssociationConnector Association="laptopsqlModel.FK___Order__staffID__59063A47" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK___Order__staffID__59FA5E80" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Export__orderID__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Export__orderID__5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__orderDeta__order__656C112C" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__orderDeta__order__66603565" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Payment__orderID__693CA210" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Payment__orderID__6A30C649" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Customer__accoun__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Manager__account__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Manager__account__6477ECF3" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Staff__accountID__75A278F5" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Staff__accountID__76969D2E" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Product_D__disco__6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Product_D__disco__6C190EBB" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Export__managerI__5BE2A6F2" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Export__managerI__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Export__staffID__5FB337D6" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Export__staffID__60A75C0F" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Import__managerI__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Import__managerI__628FA481" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__ProductIm__impor__70DDC3D8" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__ProductIm__impor__71D1E811" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__orderDeta__produ__6754599E" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__orderDeta__produ__68487DD7" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Product__specID__6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Product__specID__6C190EBB" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Product_D__produ__6EF57B66" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Product_D__produ__6FE99F9F" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__ProductIm__produ__72C60C4A" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__ProductIm__produ__73BA3083" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Wishlist__produc__778AC167" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK__Wishlist__produc__787EE5A0" ManuallyRouted="false" />
+        <AssociationConnector Association="laptopsqlModel.FK_Review_Product" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

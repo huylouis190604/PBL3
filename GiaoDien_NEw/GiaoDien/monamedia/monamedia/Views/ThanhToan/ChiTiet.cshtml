@@ -1,0 +1,320 @@
+﻿
+@{
+    ViewBag.Title = "ChiTiet";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<div id="pivoo-content">
+    <div id="product-4090" class="product type-product post-4090 status-publish first instock product_cat-computers product_tag-bluetooth product_tag-laptop product_tag-monitor product_tag-speaker has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+        <!--breadcrumb section start-->
+        <div class="el-breadcrumb-section pb-120">
+            <div class="container container-xxxl px-lg-0">
+                <div class="contents-wrapper">
+                    <div class="left-side">
+                        <ul>
+                            <div class="breadcrumb breadcrumb-text fw-light mb-0"><a title="Trang chủ" rel="bookmark" class="breadcrumb-item">Trang chủ</a> <span class="bredcrumb-separator"> / </span> <a href="../../shop/index.html" title="Sản phẩm" rel="bookmark" class="breadcrumb-item">Sản phẩm</a> <span class="bredcrumb-separator"> / </span> <span class=""></span></div>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--breadcrumb section end-->
+        <!--product details start-->
+        <section class="vr-prodcuct-details ptb-120">
+            <div class="container">
+                <div class="row">
+                    @{
+                        var laptops = ViewBag.ChiTiet as List<monamedia.API.GiohangViewModel>;
+                    }
+
+                    @if (laptops != null && laptops.Any())
+                    {
+                        foreach (var laptop in laptops)
+                        {
+                            <div class="modal fade" id="productDetailModal" tabindex="-1" aria-labelledby="productDetailModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="productDetailModalLabel">Thông số kĩ thuật</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <!-- Nội dung chi tiết sản phẩm -->
+                                            <table>
+                                                <!-- Thông tin chung -->
+                                                <tr>
+                                                    <th colspan="2">Thông tin chung</th>
+                                                </tr>
+                                                <tr>
+                                                    <td>Tên sản phẩm:</td>
+                                                    <td>@laptop.Name</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Hệ điều hành:</td>
+                                                    <td>@laptop.Os</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Năm ra mắt:</td>
+                                                    <td>@laptop.YearOfDebut</td>
+                                                </tr>
+
+                                                <!-- Cấu hình phần cứng -->
+                                                <tr>
+                                                    <th colspan="2">Cấu hình phần cứng</th>
+                                                </tr>
+                                                <tr>
+                                                    <td>CPU:</td>
+                                                    <td>@laptop.Cpu</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>GPU:</td>
+                                                    <td>@laptop.Gpu</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>RAM:</td>
+                                                    <td>@laptop.Ram</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Ổ cứng:</td>
+                                                </tr>
+
+                                                <!-- Màn hình và camera -->
+                                                <tr>
+                                                    <th colspan="2">Màn hình và Camera</th>
+                                                </tr>
+                                                <tr>
+                                                    <td>Màn hình:</td>
+                                                    <td>@laptop.Screen</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Camera:</td>
+                                                    <td>@laptop.Camera</td>
+                                                </tr>
+
+                                                <!-- Âm thanh và kết nối -->
+                                                <tr>
+                                                    <th colspan="2">Âm thanh và Kết nối</th>
+                                                </tr>
+                                                <tr>
+                                                    <td>Âm thanh:</td>
+                                                    <td>@laptop.Sound</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Công nghệ kết nối:</td>
+                                                    <td>@laptop.ConnectivityTechnologies</td>
+                                                </tr>
+
+                                                <!-- Pin và sạc -->
+                                                <tr>
+                                                    <th colspan="2">Pin và Sạc</th>
+                                                </tr>
+                                                <tr>
+                                                    <td>Pin:</td>
+                                                    <td>@laptop.Pin</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Sạc:</td>
+                                                    <td>@laptop.Charge</td>
+                                                </tr>
+
+                                                <!-- Kích thước và Trọng lượng -->
+                                                <tr>
+                                                    <th colspan="2">Kích thước và Trọng lượng</th>
+                                                </tr>
+                                                <tr>
+                                                    <td>Kích thước:</td>
+                                                    <td>@laptop.Size</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Trọng lượng:</td>
+                                                    <td>@laptop.Weight</td>
+                                                </tr>
+
+                                                <!-- Bảo hành -->
+                                                <tr>
+                                                    <th colspan="2">Bảo hành</th>
+                                                </tr>
+                                                <tr>
+                                                    <td>Bảo hành:</td>
+                                                    <td>@laptop.Warranty</td>
+                                                </tr>
+                                            </table>
+                                        </div>
+
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                                            <button type="button" class="btn btn-primary">Thêm vào giỏ hàng</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6">
+
+
+                                <!-- product img  for lg device-->
+
+                                <div class="sticky-el-details-left">
+                                    <img src="~/img/@laptop.Img" alt="product" class="img-fluid mt-20  d-none d-lg-block">
+                                </div>
+
+                                <!-- product gTất cảery for sm device -->
+                                <div class="col-12 mb-60  d-lg-none d-block">
+                                    <div class="product-details-2-gTất cảery-slider">
+                                    </div>
+                                </div>
+
+
+                            </div>
+
+                            <div class="col-xl-6">
+
+                                <div class="product-des-box sticky-el-details-right information-style-1">
+                                    <div class="ratings-wrapper">
+                                    </div>
+                                    <h3 class="title">@laptop.Name</h3>
+                                    <div class="price-vat-wrapper">
+                                        @if (laptop.Price != laptop.discountedPrice)
+                                        {
+                                            <span class="main-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">@String.Format(new System.Globalization.CultureInfo("vi-VN"), "{0:C}", laptop.Price)&nbsp;<span class="woocommerce-Price-currencySymbol"></span></span></del> <ins><span class="woocommerce-Price-amount amount">@String.Format(new System.Globalization.CultureInfo("vi-VN"), "{0:C}", laptop.discountedPrice)&nbsp;<span class="woocommerce-Price-currencySymbol"></span></span></ins> </span>
+                                        }
+                                        else
+                                        {
+
+                                    <span class="main-price">
+                                        <ins><span class="woocommerce-Price-amount amount">@String.Format(new System.Globalization.CultureInfo("vi-VN"), "{0:C}", laptop.discountedPrice)&nbsp;<span class="woocommerce-Price-currencySymbol"></span></span></ins>
+                                    </span>
+                                                }
+                                                <span class="vat-txt"> (+15% Vat Included)</span>
+                                        </div>
+                                    <div class="divider mb-20 mt-20"></div>
+
+                                    <p class="des">
+                                    </p>
+                                    <div class="short-description">
+                                        @*<p>This Bluetooth speaker has various features such as water resistance, long battery life, built-in microphones for hands-free cTất cảing, and more.</p>*@
+                                    </div>
+                                    <p></p>
+                                    <ul class="fea-list">
+                                        <li>
+                                            <img class="fea-icon" src="https://electio.ecom.themepreview.xyz/home-one/wp-content/uploads/sites/2/2023/10/svgviewer-output-6.svg" alt="">
+
+                                            <span class="fea-txt">Model: @laptop.Brand</span>
+                                        </li>
+                                        <li>
+                                            <img class="fea-icon" src="https://electio.ecom.themepreview.xyz/home-one/wp-content/uploads/sites/2/2023/10/svgviewer-output-6.svg" alt="">
+
+                                            <span class="fea-txt">Ram: @laptop.Ram</span>
+                                        </li>
+                                        <li>
+                                            <img class="fea-icon" src="https://electio.ecom.themepreview.xyz/home-one/wp-content/uploads/sites/2/2023/10/svgviewer-output-6.svg" alt="">
+
+                                            <span class="fea-txt">Memory: @laptop.Memory</span>
+                                        </li>
+                                        <li>
+                                            <img class="fea-icon" src="https://electio.ecom.themepreview.xyz/home-one/wp-content/uploads/sites/2/2023/10/svgviewer-output-6.svg" alt="">
+
+                                            <span class="fea-txt">CPU: @laptop.Cpu</span>
+                                        </li>
+                                        <li>
+                                            <img class="fea-icon" src="https://electio.ecom.themepreview.xyz/home-one/wp-content/uploads/sites/2/2023/10/svgviewer-output-6.svg" alt="">
+
+                                            <span class="fea-txt">Pin: @laptop.Pin</span>
+                                        </li>
+                                    </ul>
+                                    <div class="">
+                                        <div class="button-wrappers">
+                                            <div class="inc-dec-wrapper flex-grow-1 flex-grow-md-0 custom-style-one-single">
+
+
+
+                                                <div class="cart" style="display:flex;column-gap:10px;height:50px">
+                                                    <form method="post" action="@Url.Action("ThemVaoGio", "ThanhToan", new { SanPhamID = laptop.ProductId })">
+                                                        @Html.AntiForgeryToken()
+                                                        <div class="quantity">
+                                                            <input type="button" value="-" class="minus">
+                                                            <label class="screen-reader-text" for="quantity_6614a2cabbadc">số lượng Anfolk Portable Bluetooth Speaker</label>
+                                                            <input type="number" id="quantity_6614a2cabbadc" class="input-text qty text" step="1" min="1" max="145" name="quantity" value="1" title="Số lượng" size="4" placeholder="" inputmode="numeric">
+                                                            <input type="button" value="+" class="plus">
+                                                        </div>
+                                                        <button type="submit" class="btn btn-info">
+                                                            Thêm vào giỏ hàng
+                                                        </button>
+
+                                                    </form>
+
+                                                </div>
+                                                <button style="margin-right:250px" type="button" class="btn btn-secondary" data-toggle="modal" data-target="#productDetailModal">
+                                                    Xem chi tiết
+                                                </button>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="btm-action-btns-wrapper">
+
+                                           
+                                            @*<span class="btm-action-btn">
+                                                <button class="woosc-btn woosc-btn-4090 " data-id="4090" data-product_name="Anfolk Portable Bluetooth Speaker" data-product_image="../../wp-content/uploads/2023/10/23-150x150.png">So sánh</button>
+                                            </span>
+                                            <a href="#" class="btm-action-btn">
+                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M2.00004 2H14C14.1769 2 14.3464 2.07024 14.4714 2.19526C14.5965 2.32029 14.6667 2.48986 14.6667 2.66667V13.3333C14.6667 13.5101 14.5965 13.6797 14.4714 13.8047C14.3464 13.9298 14.1769 14 14 14H2.00004C1.82323 14 1.65366 13.9298 1.52864 13.8047C1.40361 13.6797 1.33337 13.5101 1.33337 13.3333V2.66667C1.33337 2.48986 1.40361 2.32029 1.52864 2.19526C1.65366 2.07024 1.82323 2 2.00004 2V2ZM13.3334 4.82533L8.04804 9.55867L2.66671 4.81067V12.6667H13.3334V4.82533ZM3.00737 3.33333L8.04071 7.77467L13.0014 3.33333H3.00737Z" fill="#717171"></path>
+                                                </svg>
+
+                                                Hỏi về sản phẩm
+                                            </a>*@
+                                        </div>
+                                    </div>
+                                    <div class="divider mb-20 mt-20"></div>
+                                    <div class="divider mt-20 mb-20"></div>
+
+                                </div>
+
+                            </div>
+                           
+
+
+                                
+
+                            <!-- Comments Section End -->
+
+                }
+            }
+</div>
+            </div>
+        </section>
+        <section>
+            <div class="order-details-container">
+                <div class="comment-section">
+                    <h2 class="text-center">Bình luận sản phẩm</h2>
+                    @foreach (var comment in ViewBag.Comments)
+                    {
+                        <div class="comment">
+                            <div class="media">
+                         @*       <img src="user-avatar.png" alt="User Avatar" class="avatar mr-3">*@
+                                <div class="media-body">
+                                    <h5 class="mt-0 username">@comment.nameCustomer</h5>
+                                    <span class="comment-date">@comment.cmtTime</span>
+                                    <p class="comment-text">@comment.cmtCustomer</p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </section>
+        <!---product details end-->
+        <!--trending products section start-->
+        <!--featured products start-->
+        <!--trending products section start-->
+        <!--trending products section end-->
+        <!--    --><!--    -->
+    </div>
+    <div class="clearfix"></div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+ 
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</div>
+

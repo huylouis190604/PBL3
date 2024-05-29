@@ -1,0 +1,660 @@
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\monamedia.dll.config
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\monamedia.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\monamedia.pdb
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\csc.exe
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\csc.exe.config
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\csc.rsp
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\csi.exe
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\csi.exe.config
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\csi.rsp
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\Microsoft.Managed.Core.targets
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.AppContext.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Collections.Immutable.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Console.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Globalization.Calendars.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.IO.Compression.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Net.Http.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Net.Sockets.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Reflection.Metadata.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.ValueTuple.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Xml.XmlDocument.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Xml.XPath.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\vbc.exe
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\vbc.exe.config
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\vbc.rsp
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe.config
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\Antlr3.Runtime.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\Microsoft.Web.Infrastructure.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\Newtonsoft.Json.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.Helpers.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.Mvc.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.Optimization.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.Razor.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.WebPages.Deployment.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.WebPages.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.WebPages.Razor.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\WebGrease.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.Helpers.xml
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.Mvc.xml
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.Optimization.xml
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.Razor.xml
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.WebPages.xml
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.WebPages.Deployment.xml
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\System.Web.WebPages.Razor.xml
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\Newtonsoft.Json.xml
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\Antlr3.Runtime.pdb
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\obj\Debug\monamedia.csproj.AssemblyReference.cache
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\obj\Debug\monamedia.csproj.CoreCompileInputs.cache
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\obj\Debug\monamedia.csproj.Up2Date
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\obj\Debug\monamedia.dll
+E:\1.Source_DF\Khach Hang\FE\monamedia\monamedia\obj\Debug\monamedia.pdb
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\monamedia.dll.config
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\monamedia.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\monamedia.pdb
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\csc.exe
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\csc.exe.config
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\csc.rsp
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\csi.exe
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\csi.exe.config
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\csi.rsp
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.AppContext.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Collections.Immutable.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Console.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Globalization.Calendars.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.IO.Compression.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Net.Http.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Net.Sockets.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Reflection.Metadata.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.ValueTuple.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Xml.XPath.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\vbc.exe
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\vbc.exe.config
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\vbc.rsp
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe.config
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\Antlr3.Runtime.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\EntityFramework.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\EntityFramework.SqlServer.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\Microsoft.Web.Infrastructure.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\Newtonsoft.Json.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.Helpers.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.Mvc.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.Optimization.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.Razor.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.WebPages.Deployment.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.WebPages.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.WebPages.Razor.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\WebGrease.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\EntityFramework.xml
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\EntityFramework.SqlServer.xml
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.Helpers.xml
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.Mvc.xml
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.Optimization.xml
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.Razor.xml
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.WebPages.xml
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.WebPages.Deployment.xml
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\System.Web.WebPages.Razor.xml
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\Newtonsoft.Json.xml
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\Antlr3.Runtime.pdb
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\obj\Debug\monamedia.csproj.AssemblyReference.cache
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\obj\Debug\monamedia.csproj.CoreCompileInputs.cache
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\obj\Debug\monamedia.csproj.Up2Date
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\obj\Debug\monamedia.dll
+D:\Applications\Zalo\Zalo Received Files\PBL3\monamedia\monamedia\obj\Debug\monamedia.pdb
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\monamedia.dll.config
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\monamedia.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\monamedia.pdb
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\csc.exe
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\csc.exe.config
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\csc.rsp
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\csi.exe
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\csi.exe.config
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\csi.rsp
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.AppContext.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Collections.Immutable.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Console.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Globalization.Calendars.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.Compression.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Net.Http.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Net.Sockets.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Reflection.Metadata.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.ValueTuple.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XPath.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.exe
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.exe.config
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.rsp
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe.config
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\Antlr3.Runtime.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\EntityFramework.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\EntityFramework.SqlServer.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\Microsoft.Web.Infrastructure.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\Newtonsoft.Json.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.Helpers.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.Mvc.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.Optimization.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.Razor.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Deployment.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Razor.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\WebGrease.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\EntityFramework.xml
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\EntityFramework.SqlServer.xml
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.Helpers.xml
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.Mvc.xml
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.Optimization.xml
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.Razor.xml
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.xml
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Deployment.xml
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Razor.xml
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\Newtonsoft.Json.xml
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\Antlr3.Runtime.pdb
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.AssemblyReference.cache
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.CoreCompileInputs.cache
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.Up2Date
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.dll
+D:\PBL3-20240505T010418Z-001\PBL3\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.pdb
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.dll.config
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.pdb
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.exe
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.exe.config
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.rsp
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.exe
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.exe.config
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.rsp
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.AppContext.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Collections.Immutable.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Console.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Globalization.Calendars.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.Compression.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Net.Http.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Net.Sockets.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Reflection.Metadata.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.ValueTuple.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XPath.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.exe
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.exe.config
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.rsp
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe.config
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Antlr3.Runtime.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.SqlServer.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.Web.Infrastructure.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Newtonsoft.Json.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Helpers.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Mvc.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Optimization.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Razor.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Deployment.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Razor.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\WebGrease.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.xml
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.SqlServer.xml
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Helpers.xml
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Mvc.xml
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Optimization.xml
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Razor.xml
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.xml
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Deployment.xml
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Razor.xml
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Newtonsoft.Json.xml
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Antlr3.Runtime.pdb
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.AssemblyReference.cache
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.CoreCompileInputs.cache
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.Up2Date
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.dll
+D:\PL3\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.pdb
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.dll.config
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.pdb
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.CopyComplete
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.dll
+C:\Users\ASUS\Desktop\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.pdb
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.pdb
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.dll.config
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.pdb
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\WebGrease.dll
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.Up2Date
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.pdb
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.dll.config
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.pdb
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\Bailam\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.CopyComplete
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.pdb
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.dll.config
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\monamedia.pdb
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\WebGrease.dll
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\New folder\GiaoDien_NEw\GiaoDien\monamedia\monamedia\obj\Debug\monamedia.csproj.Up2Date

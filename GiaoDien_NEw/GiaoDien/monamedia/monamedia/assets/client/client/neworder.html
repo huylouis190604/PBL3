@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Thông tin đơn hàng từ khách hàng:{{CustomerName}}</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <h3>Thông tin đơn hàng mới của khách hàng: {{CustomerName}} </h3>
+    Điện thoại: {{Phone}}<br />
+    Email: {{Email}}<br />
+    Địa chỉ: {{Address}}<br />
+    Sản phẩm gồm có:
+    <table border="1" style="margin-left:100px;">
+        <thead>
+            <tr class="text-center">
+                <th style="width:5%; text-align:center;">STT</th>
+                <th style="width:35%;">Tên sản phẩm</th>
+                <th style="width:20%; text-align:center;">Số lượng</th>
+                <th style="width:20%; text-align:center;">Đơn giá</th>
+                <th style="width:20%; text-align:center;">Thành Tiền</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{SanPham}}
+        </tbody>
+    </table>
+    <div style="padding-left:560px;padding-top:10px;">
+        <b>Tổng cộng: {{TongCong}} VNĐ</b><br /><br />
+        <em>Ghi chú: {{GhiChu}}</em><br />
+    </div>
+</body>
+</html>

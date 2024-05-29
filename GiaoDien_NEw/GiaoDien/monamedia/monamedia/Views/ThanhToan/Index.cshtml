@@ -1,0 +1,178 @@
+﻿@model List<monamedia.API.CartItem>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+<style>
+    .cart-mobile {
+        padding: 15px;
+    }
+
+    .header-cart {
+        margin-bottom: 20px;
+    }
+
+    .title-cart h3 {
+        font-size: 24px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .header-cart-content {
+        background: #fff;
+        padding: 10px;
+    }
+
+    .content-product-list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .item-product {
+        width: 100%;
+        margin: 10px 0;
+        border: 1px solid #ddd;
+        padding: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        text-align: center;
+    }
+
+        .item-product img {
+            max-width: 100px;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+
+    .title-product-cart-mobile h3 {
+        font-size: 16px;
+        margin: 10px 0;
+    }
+
+    .title-product-cart-mobile p {
+        margin: 10px 0;
+    }
+
+    .title-product-cart-mobile a {
+        color: #333;
+        text-decoration: none;
+    }
+
+    .btn-delete {
+        color: red;
+        font-size: 14px;
+        text-decoration: none;
+    }
+
+    .header-cart-price {
+        padding: 10px;
+        background-color: #f8f8f8;
+        border-top: 1px solid #ddd;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    .checkout {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .btn-proceed-checkout-mobile,
+    .btn-continue {
+        background-color: #5cb85c;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+        font-weight: bold;
+        border: none;
+        display: inline-block;
+        margin: 5px 0;
+    }
+
+    .btn-continue {
+        background-color: #f8f8f8;
+        color: #333;
+        border: 1px solid #ddd;
+    }
+
+        .btn-proceed-checkout-mobile:hover,
+        .btn-continue:hover {
+            background-color: #4cae4c;
+            color: white;
+        }
+
+    .cart-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 20px;
+        border-top: 1px solid #ddd;
+        padding-top: 10px;
+    }
+
+    .totals-price {
+        font-size: 18px;
+        font-weight: bold;
+        margin-right: 20px;
+    }
+</style>
+
+<section class="main-cart-page main-container col1-layout">
+    <div class="cart-mobile hidden-md hidden-lg hidden-sm">
+        @if (Model.Count() > 0)
+        {
+            int total = 0;
+            <div class="header-cart">
+                <div class="title-cart title_cart_mobile">
+                    <h3>Giỏ hàng của bạn</h3>
+                </div>
+            </div>
+            <div class="header-cart-content">
+                <div class="cart_page_mobile content-product-list">
+                    @foreach (var item in Model)
+                    {
+                        <div class="item-product item">
+                            <div class="item-product-cart-mobile">
+                                <a href="#"> </a>
+                                <a class="product-images1" href="#" title="@item.TenSanPham">
+                                    <img width="80" height="150" src="~/img/@item.Hinh" alt="@item.TenSanPham">
+                                </a>
+                            </div>
+                            <div class="title-product-cart-mobile">
+                                <h3>
+                                    <a title="@item.TenSanPham">@item.TenSanPham</a>
+                                </h3>
+                                <p>
+                                    Số lượng: @item.SoLuong <br />
+                                    Giá: <span>@Convert.ToInt32(item.ThanhTien).ToString("#,##0") VND</span> <br />
+                                    <a href="@Url.Action("XoaKhoiGio", new { SanPhamID = item.SanPhamID })" onclick="return confirm('Bạn có chắc muốn xóa sản phẩm này?');" class="button remove-item remove-item-cart btn-delete"><i class="fas fa-trash-alt"></i> Xóa sản phẩm</a>
+                                </p>
+                            </div>
+                        </div>
+                        total += @item.ThanhTien;
+                    }
+                </div>
+                <div class="cart-footer">
+                    <div class="totals-price">
+                        Tổng tiền: @total.ToString("#,##0") VNĐ
+                    </div>
+                    <div class="checkout">
+                        <button class="btn-proceed-checkout-mobile" type="button" onclick="window.location.href='/ThanhToan/ThanhToan'">
+                            <span>Tiến hành thanh toán</span>
+                        </button>
+                        <button class="btn btn-white f-left btn-continue" type="button" onclick="window.location.href='/Home/Index'">
+                            <span>Tiếp tục mua hàng</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-danger">Chưa có sản phẩm nào trong giỏ hàng</div>
+        }
+    </div>
+</section>

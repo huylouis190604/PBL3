@@ -1,0 +1,16 @@
+2024-05-11 03:27:22,010 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 POST https://localhost:5001/v1/api/SP/Proc_Sanpham application/json-patch+json 22
+2024-05-11 03:27:22,055 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2024-05-11 03:27:22,060 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-05-11 03:27:22,064 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - AuthenticationScheme: Bearer was challenged.
+2024-05-11 03:27:22,066 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 POST https://localhost:5001/v1/api/SP/Proc_Sanpham application/json-patch+json 22 - 401 0 - 63.0425ms
+2024-05-11 03:27:44,590 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 POST https://localhost:5001/v1/api/Token application/json-patch+json 51
+2024-05-11 03:27:44,602 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2024-05-11 03:27:44,615 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'API.API.Controllers.TokenController.Post (API.API)'
+2024-05-11 03:27:44,637 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Route matched with {action = "Post", controller = "Token"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Post(API.Utility.AuthenticateModel) on controller API.API.Controllers.TokenController (API.API).
+2024-05-11 03:27:44,820 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executing action method API.API.Controllers.TokenController.Post (API.API) - Validation state: Valid
+2024-05-11 03:27:44,936 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed action method API.API.Controllers.TokenController.Post (API.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 106.7951ms.
+2024-05-11 03:27:44,950 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing OkObjectResult, writing value of type 'API.Utility.APIResponse'.
+2024-05-11 03:27:45,003 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed action API.API.Controllers.TokenController.Post (API.API) in 349.8305ms
+2024-05-11 03:27:45,005 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'API.API.Controllers.TokenController.Post (API.API)'
+2024-05-11 03:27:45,008 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 POST https://localhost:5001/v1/api/Token application/json-patch+json 51 - 200 380 application/json;+charset=utf-8 422.6537ms

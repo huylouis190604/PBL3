@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "ChiTietDonHang";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+<div class="order-details-container">
+    <h2>Chi Tiết Đơn Hàng</h2>
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>Mã Sản Phẩm</th>
+                <th>Số Lượng</th>
+                <th>Giá</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.Order)
+            {
+                <tr>
+                    <td>@item.productID</td>
+                    <td>@item.quantity</td>
+                    <td>@String.Format(new System.Globalization.CultureInfo("vi-VN"), "{0:C}", @item.price)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a href="@Url.Action("DatHang", "ThanhToan")" class="btn btn-secondary">Quay Lại</a>
+</div>
+
+<div class="order-details-container">
+    <div class="comment-section">
+        <h2 class="text-center">Bình luận sản phẩm</h2>
+
+        
+
+        <div class="mt-4">
+            <h5>Viết bình luận</h5>
+            <div>
+                <div class="container mt-5">
+                    <form method="post" action="@Url.Action("BinhLuan", "ThanhToan" , new { id = ViewBag.OrderId })")">
+                        <div class="form-group">
+                            <label for="username">Tên</label>
+                            <input type="text" class="form-control" id="username" name="username" placeholder="Tên của bạn">
+                        </div>
+                        <div class="form-group">
+                            <label for="comment">Bình luận</label>
+                            <textarea class="form-control" id="comment" name="comment" rows="3" placeholder="Viết bình luận..."></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Gửi</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

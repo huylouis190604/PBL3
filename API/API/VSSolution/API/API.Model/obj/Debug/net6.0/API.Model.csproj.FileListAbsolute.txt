@@ -1,0 +1,60 @@
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Model\bin\Debug\net6.0\API.Model.deps.json
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Model\bin\Debug\net6.0\API.Model.dll
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Model\bin\Debug\net6.0\API.Model.pdb
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Model\obj\Debug\net6.0\API.Model.csproj.AssemblyReference.cache
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Model\obj\Debug\net6.0\API.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Model\obj\Debug\net6.0\API.Model.AssemblyInfoInputs.cache
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Model\obj\Debug\net6.0\API.Model.AssemblyInfo.cs
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Model\obj\Debug\net6.0\API.Model.csproj.CoreCompileInputs.cache
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Model\obj\Debug\net6.0\API.Model.dll
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Model\obj\Debug\net6.0\refint\API.Model.dll
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Model\obj\Debug\net6.0\API.Model.pdb
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Model\obj\Debug\net6.0\ref\API.Model.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Model\bin\Debug\net6.0\API.Model.deps.json
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Model\bin\Debug\net6.0\API.Model.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Model\bin\Debug\net6.0\API.Model.pdb
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.csproj.AssemblyReference.cache
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.AssemblyInfoInputs.cache
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.AssemblyInfo.cs
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.csproj.CoreCompileInputs.cache
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Model\obj\Debug\net6.0\refint\API.Model.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.pdb
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Model\obj\Debug\net6.0\ref\API.Model.dll
+D:\PL3\API\API\VSSolution\API\API.Model\bin\Debug\net6.0\API.Model.deps.json
+D:\PL3\API\API\VSSolution\API\API.Model\bin\Debug\net6.0\API.Model.dll
+D:\PL3\API\API\VSSolution\API\API.Model\bin\Debug\net6.0\API.Model.pdb
+D:\PL3\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.csproj.AssemblyReference.cache
+D:\PL3\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\PL3\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.AssemblyInfoInputs.cache
+D:\PL3\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.AssemblyInfo.cs
+D:\PL3\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.csproj.CoreCompileInputs.cache
+D:\PL3\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.dll
+D:\PL3\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\refint\API.Model.dll
+D:\PL3\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.pdb
+D:\PL3\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\ref\API.Model.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Model\bin\Debug\net6.0\API.Model.deps.json
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Model\bin\Debug\net6.0\API.Model.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Model\bin\Debug\net6.0\API.Model.pdb
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\refint\API.Model.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.pdb
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\ref\API.Model.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Model\bin\Debug\net6.0\API.Model.deps.json
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Model\bin\Debug\net6.0\API.Model.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Model\bin\Debug\net6.0\API.Model.pdb
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.AssemblyInfo.cs
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\refint\API.Model.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\API.Model.pdb
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Model\obj\Debug\net6.0\ref\API.Model.dll

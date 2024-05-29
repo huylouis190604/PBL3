@@ -1,0 +1,146 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Staff/Views/Shared/StaffLayoutPage1.cshtml";
+}
+@model List<monamedia.Models.Product>
+@section Styles {
+    <style>
+        .product-info {
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+        .details-button {
+            position: absolute;
+            bottom: 5px; 
+            right: 5px; 
+        }
+
+            .product-info img {
+                margin-left: auto;
+                width: 100px;
+                height: 100px;
+                object-fit: cover;
+                object-position: center;
+            }
+
+        .card {
+            background: linear-gradient(145deg, #e0e0e0, #ffffff);
+            border-radius: 10px;
+            transition: transform 0.3s ease;
+        }
+
+            .card:hover {
+                transform: translateY(-5px);
+                box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+                cursor: pointer;
+            }
+            }
+    </style>
+    <h2>Danh sách sản phẩm</h2>
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <nav class="navbar navbar-light bg-light">
+                <div class="container-fluid">
+                    <form class="d-flex" style="width:100%" onsubmit="return search()">
+                        <input id="searchInput" class="form-control me-2" type="search" placeholder="Tìm kiếm" aria-label="Search" style="width: 80%">
+                        <button class="btn btn-outline-success" type="submit">Tìm kiếm</button>
+                    </form>
+                </div>
+            </nav>
+        </div>
+        <div class="col-md-6" style="display: flex; align-items: center;">
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="productType" id="allProducts" value="all" checked>
+                <label class="form-check-label" for="allProducts">
+                    Tất cả
+                </label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="productType" id="phones" value="Phone">
+                <label class="form-check-label" for="phones">
+                    Điện thoại
+                </label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="productType" id="tablets" value="Tablet">
+                <label class="form-check-label" for="tablets">
+                    Máy tính bảng
+                </label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="productType" id="laptops" value="Laptop">
+                <label class="form-check-label" for="laptops">
+                    Laptop
+                </label>
+            </div>
+        </div>
+    </div>
+
+    <div id="searchResults" class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4">
+                <div class="card mb-3" data-product-type="@product.type">
+                    <div class="product-info">
+                        <div>
+                            <h5 class="card-title">@product.name</h5>
+                            <p class="card-text">Thương hiệu: @product.brand</p>
+                            <p class="card-text">Màu sắc: @product.color</p>
+                            <p class="card-text">Số lượng: @product.quantity</p>
+                            <p class="card-text">Giá: @(string.Format("{0:#,##0}", product.price)) đ</p>
+                            <button class="btn btn-primary details-button" onclick="showProductDetail('@product.name','@product.brand', '@product.color', '@product.quantity', '@product.price')">Chỉnh sửa</button>
+                        </div>
+                        <img src="~/img/@product.img" alt="Product Image" class="custom-img">
+                    </div>
+                </div>
+            </div>
+        }
+    <script>
+        function search() {
+            var input, filter, cards, cardContainer, title, i, column;
+            input = document.getElementById("searchInput");
+            filter = input.value.toUpperCase();
+            cardContainer = document.getElementById("searchResults");
+            cards = cardContainer.getElementsByClassName("card");
+            for (i = 0; i < cards.length; i++) {
+                title = cards[i].querySelector(".card-title");
+                if (title.innerText.toUpperCase().indexOf(filter) > -1) {
+                    cards[i].style.display = "";
+                    column = cards[i].closest(".col-md-6");
+                    column.style.display = "";
+                } else {
+                    cards[i].style.display = "none";
+                }
+            }
+            var columns = cardContainer.getElementsByClassName("col-md-6");
+            for (var j = 0; j < columns.length; j++) {
+                if (!columns[j].querySelector(".card:not([style='display: none;'])")) {
+                    columns[j].style.display = "none";
+                }
+            }
+            return false;
+        }
+    </script>
+    <script>
+        function filterProductsByType(type) {
+            var cards = document.querySelectorAll('.card');
+            cards.forEach(function (card) {
+                var productType = card.getAttribute('data-product-type');
+                if (type === 'all' || productType === type) {
+                    card.parentNode.style.display = 'block';
+                } else {
+                    card.parentNode.style.display = 'none'; 
+                }
+            });
+        }
+
+        var radioButtons = document.querySelectorAll('input[name="productType"]');
+        radioButtons.forEach(function (radio) {
+            radio.addEventListener('change', function () {
+                var selectedType = this.value;
+                filterProductsByType(selectedType);
+            });
+        });
+    </script>
+ 

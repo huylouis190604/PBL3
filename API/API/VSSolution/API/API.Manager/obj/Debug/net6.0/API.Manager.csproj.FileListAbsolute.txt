@@ -1,0 +1,81 @@
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Manager\obj\Debug\net6.0\API.Manager.csproj.AssemblyReference.cache
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Manager\obj\Debug\net6.0\API.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Manager\obj\Debug\net6.0\API.Manager.AssemblyInfoInputs.cache
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Manager\obj\Debug\net6.0\API.Manager.AssemblyInfo.cs
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\API\API.Manager\obj\Debug\net6.0\API.Manager.csproj.CoreCompileInputs.cache
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Manager.deps.json
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Manager.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Manager.pdb
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.DataAccess.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Model.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Utility.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.DataAccess.pdb
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Model.pdb
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Utility.pdb
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.csproj.AssemblyReference.cache
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.AssemblyInfoInputs.cache
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.AssemblyInfo.cs
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.csproj.CoreCompileInputs.cache
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Mana.4DF42262.Up2Date
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\obj\Debug\net6.0\refint\API.Manager.dll
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.pdb
+E:\Tool API\MicroServiceGenerator_DotNetCore6\API\VSSolution\API\API.Manager\obj\Debug\net6.0\ref\API.Manager.dll
+D:\PL3\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Manager.deps.json
+D:\PL3\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Manager.dll
+D:\PL3\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Manager.pdb
+D:\PL3\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.DataAccess.dll
+D:\PL3\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Model.dll
+D:\PL3\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Utility.dll
+D:\PL3\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.DataAccess.pdb
+D:\PL3\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Model.pdb
+D:\PL3\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Utility.pdb
+D:\PL3\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.csproj.AssemblyReference.cache
+D:\PL3\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\PL3\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.AssemblyInfoInputs.cache
+D:\PL3\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.AssemblyInfo.cs
+D:\PL3\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.csproj.CoreCompileInputs.cache
+D:\PL3\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Mana.4DF42262.Up2Date
+D:\PL3\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.dll
+D:\PL3\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\refint\API.Manager.dll
+D:\PL3\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.pdb
+D:\PL3\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\ref\API.Manager.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Manager.deps.json
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Manager.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Manager.pdb
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.DataAccess.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Model.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Utility.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.DataAccess.pdb
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Model.pdb
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Utility.pdb
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\refint\API.Manager.dll
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.pdb
+C:\Users\ASUS\Desktop\Bailam\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\ref\API.Manager.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Manager.deps.json
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Manager.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Manager.pdb
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.DataAccess.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Model.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Utility.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.DataAccess.pdb
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Model.pdb
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\bin\Debug\net6.0\API.Utility.pdb
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.AssemblyInfo.cs
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Mana.4DF42262.Up2Date
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\refint\API.Manager.dll
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\API.Manager.pdb
+C:\Users\DELL\Desktop\New folder\API\API\VSSolution\API\API.Manager\obj\Debug\net6.0\ref\API.Manager.dll
